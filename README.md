@@ -4,7 +4,7 @@
 
 ## 1. 3D Object Detection 
 **The NDS and mAP are given in the NuScenes Val.**
-| Paper                                                        | 发表地方 | 融合方法         | 代码链接                                                | Backbone | Image Size | NDS   | mAP   |
+| Paper                                                        | Publication |  Note         | Code                                                | Backbone | Image Size | NDS   | mAP   |
 | :----------------------------------------------------------: | :------: | :--------------: | :-----------------------------------------------------: | :------: | :---: | :---: | :---: |
 | [CenterFusion](https://openaccess.thecvf.com/content/WACV2021/papers/Nabati_CenterFusion_Center-Based_Radar_and_Camera_Fusion_for_3D_Object_Detection_WACV_2021_paper.pdf) | WACV2021 | 3D框与雷达点关联 | [pytorch](https://github.com/mrnabati/CenterFusion) | DAL34 | 450 $\times$ 800 | 0.453 | 0.332 |
 | [ClusterFusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10302296)|IEEE Access| - | - | DLA34 | 448 $\times$ 800 | 0.490 | 0.347 |
