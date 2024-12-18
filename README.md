@@ -18,3 +18,5 @@
 | [HVDetFusion](https://arxiv.org/pdf/2307.11323.pdf)| arxiv | - | [pytorch](https://github.com/HVXLab/HVDetFusion) | R50 | 256 $\times$ 704 | 0.451 | 0.557 |
 | [RCBEVDet](https://openaccess.thecvf.com/content/CVPR2024/html/Lin_RCBEVDet_Radar-camera_Fusion_in_Birds_Eye_View_for_3D_Object_CVPR_2024_paper.html) | CVPR2024 | - | [pytorch](https://github.com/VDIGPKU/RCBEVDet) | R50 | 256 $\times$ 704 | 0.568 | 0.453 |
 | [CRKD](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_CRKD_Enhanced_Camera-Radar_Object_Detection_with_Cross-modality_Knowledge_Distillation_CVPR_2024_paper.html) | CVPR2024 | 知识蒸馏 | [pytorch](https://github.com/Song-Jingyu/CRKD) | R50 | 256 $\times$ 704 | 0.549  | 0.432 |
+| [HyDRa](https://arxiv.org/pdf/2403.07746) | arxiv2403 | - | - | R50 | 256 $\times$ 704 | 0.585  | 0.494 |
+| [SpaRC](https://arxiv.org/pdf/2411.19860) | arxiv2411 | - | - | R50 | 256 $\times$ 704 | 0.620  | 0.545 |
