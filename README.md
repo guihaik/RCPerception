@@ -25,4 +25,6 @@
 | [SpaRC](https://arxiv.org/pdf/2411.19860) | arxiv2411 | - | - | R50 | 256 $\times$ 704 | 0.620  | 0.545 |
 
 ## 2. Depth  Estimation
-
+| Paper                                                        | Publication |  Note         | Code                                                | 
+| :----------------------------------------------------------: | :------: | :--------------: | :-----------------------------------------------------: |
+| [Depth Estimation from Camera Image and mmWave Radar Point Cloud](https://openaccess.thecvf.com/content/CVPR2023/papers/Singh_Depth_Estimation_From_Camera_Image_and_mmWave_Radar_Point_Cloud_CVPR_2023_paper.pdf) | CVPR2023 | - | [pytorch]([url](https://github.com/nesl/radar-camera-fusion-depth)) | 
