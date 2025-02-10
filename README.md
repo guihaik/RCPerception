@@ -24,6 +24,7 @@
 | [HyDRa](https://arxiv.org/pdf/2403.07746) | arxiv2403 | - | - | R50 | 256 $\times$ 704 | 0.585  | 0.494 |
 | [SpaRC](https://arxiv.org/pdf/2411.19860) | arxiv2411 | - | - | R50 | 256 $\times$ 704 | 0.620  | 0.545 |
 | [RCTrans](https://arxiv.org/pdf/2412.12799) | arxiv2412 | - | - | R50 | 256 $\times$ 704 | 0.586  | 0.509 |
+| [CRTFusion](https://arxiv.org/pdf/2411.03013?) | arxiv2411 | - | [pytorch](https://github.com/mjseong0414/CRT-Fusion) | R50 | 256 $\times$ 704 | 0.597  | 0.508 |
 
 ## 2. Depth  Estimation
 | Paper                                                        | Publication |  Note         | Code                                                | 
