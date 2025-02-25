@@ -31,3 +31,6 @@
 | Paper                                                        | Publication |  Note         | Code                                                | 
 | :----------------------------------------------------------: | :------: | :--------------: | :-----------------------------------------------------: |
 | [Depth Estimation from Camera Image and mmWave Radar Point Cloud](https://openaccess.thecvf.com/content/CVPR2023/papers/Singh_Depth_Estimation_From_Camera_Image_and_mmWave_Radar_Point_Cloud_CVPR_2023_paper.pdf) | CVPR2023 | - | [pytorch](https://github.com/nesl/radar-camera-fusion-depth) | 
+| [CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation](https://arxiv.org/pdf/2407.00697) | IROS2024 | - | [pytorch](https://github.com/harborsarah/CaFNet) | 
+| [GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling](https://github.com/harborsarah/GET-UP) | WACV2025 | - | [pytorch](https://github.com/harborsarah/GET-UP) | 
+| [LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance](https://arxiv.org/pdf/2412.16380) | CVPR2023 | - | [ICASSP2025](https://github.com/harborsarah/LiRCDepth) | 
