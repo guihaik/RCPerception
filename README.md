@@ -26,6 +26,7 @@
 | [RCTrans](https://arxiv.org/pdf/2412.12799) | AAAI2025 | - | [pytorch](https://github.com/liyih/RCTrans) | R50 | 256 $\times$ 704 | 0.586  | 0.509 |
 | [CRTFusion](https://arxiv.org/pdf/2411.03013?) | NeurIPS2024 | - | [pytorch](https://github.com/mjseong0414/CRT-Fusion) | R50 | 256 $\times$ 704 | 0.597  | 0.508 |
 | [RaCFormer](https://arxiv.org/abs/2412.12725) | arxiv2412 | - | - | R50 | 256 $\times$ 704 | 0.613  | 0.541 |
+| [RCAlign](https://arxiv.org/abs/2504.16368v1) | arxiv2504 | - | - | R50 | 256 $\times$ 704 | 0.611  | 0.537 |
 
 ## 2. Depth  Estimation
 | Paper                                                        | Publication |  Note         | Code                                                | 
